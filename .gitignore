@@ -1,0 +1,9 @@
+#Ignore packages
+/venv/.Lib
+
+#Testing Results
+/src/__pycache__
+/src/.pytest_cache
+
+#For macOS
+.DS_Store
