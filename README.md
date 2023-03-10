@@ -21,5 +21,5 @@ Filtering, Sorting, and Pagination available as described by https://the-one-api
 
 Simply enter fields as arguments into your call with: limit, page, offset, sort, and filter.
 
-Testing can be accomplished by going into /tests folder and running 
-    pytest all_test.py
+Testing can be accomplished by going into your environment folder, then SDK folder and running 
+    pytest test_all.py
