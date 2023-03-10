@@ -1,6 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./Ty_Delargy-SDK",
-        "./src"
-    ]
-}
