@@ -1,8 +1,11 @@
-## Ty Delargy Lord of Ty Rings SDK
+## Ty Delargy: Lord of Ty Rings SDK
 In order to use the SDK import. Create a context for API use.
-    from LOTR_SDK import LOTR
-    SDK = LOTR("YOUR API KEY")
+    
+    from SDK import LOTR_SDK
+    SDK = LOTR_SDK.LOTR("YOUR API KEY")
+
 Example Usage:
+    
     all_movies = SDK.movies()
     a_movie = SDK.movies(_id = "movie_id")
     #Not capital or space sensitive

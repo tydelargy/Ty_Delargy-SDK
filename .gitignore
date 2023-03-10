@@ -1,5 +1,5 @@
 #Ignore packages
-/venv/.Lib
+.venv
 
 #Testing Results
 /src/__pycache__

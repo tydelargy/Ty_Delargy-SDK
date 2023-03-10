@@ -1,1 +1,0 @@
-from LOTR_SDK import LOTR
