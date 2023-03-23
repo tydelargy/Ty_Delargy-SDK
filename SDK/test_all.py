@@ -2,7 +2,7 @@
 import pytest
 from SDK import LOTR_SDK
 #Insert your API_KEY
-API_KEY = 'SpItiWofvfNo4rjVx5xm '
+API_KEY = 
 
 @pytest.fixture
 def SDK():
